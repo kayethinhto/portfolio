@@ -1,3 +1,3 @@
-	**Currently in developmeny**
+	** Currently in development **
 
 https://kayethinhto.netlify.app/
